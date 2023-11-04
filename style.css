@@ -1,0 +1,83 @@
+body {
+    text-align: center;  
+     
+}
+
+.background {
+  background-color:#ffedef;
+  width: 100%;
+  overflow: hidden;  
+}
+
+.padding {
+    padding: 30px;
+}
+
+.heading {
+    font-family: Agbalumo;
+    font-size: 100px;
+    color: #2B4212;
+    
+}
+
+.caption {
+    font-family: Raleway;
+    font-size: 40px;
+    color: #2B4212;
+}
+
+h2 {
+    font-size: 60px;
+    color: #2B4212;
+    font-family: Raleway;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 40px;
+    color: #801534;
+    font-family: Raleway;
+    font-weight: bold;
+}
+
+p {
+    font-family: Raleway;
+    font-size: 20px;
+}
+
+.jess {
+    border-radius: 50%;
+   
+}
+
+.more {
+    border-radius: 10%;
+    border: solid #801534
+}
+
+.btn {
+    
+    font-family: Raleway;
+    font-size: 20px;
+    background-color: #ffedef;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #ffedef 
+    
+    
+}
+
+a:hover {
+    color: #F974A1;
+    
+}
+
+a:visited {
+    color:#801534;
+}
+
+.contact {
+    background-color: #2B4212;
+}
+  
